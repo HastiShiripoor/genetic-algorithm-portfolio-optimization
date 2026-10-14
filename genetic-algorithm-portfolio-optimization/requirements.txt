@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scipy
+yfinance
+jupyter
+# Tkinter ships with the standard Python installer (python.org) and is not installed via pip.
+# Tip: after confirming everything works, pin exact versions with `pip freeze`.
